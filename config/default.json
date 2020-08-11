@@ -1,9 +1,9 @@
 {
     "mysql": {
-      "host": "127.0.0.1",
-      "user": "root",
-      "password": "",
-      "database": "tintuc"
+      "host": "MiMlOqrmAj",
+      "user": "MiMlOqrmAj",
+      "password": "i6XWHpj5DD",
+      "database": "MiMlOqrmAj"
     },
     "paginate": {
       "default": 6
